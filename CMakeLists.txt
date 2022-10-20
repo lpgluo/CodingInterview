@@ -3,4 +3,4 @@ project(CodingInterview)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CodingInterview main.cpp)
+add_executable(CodingInterview main.cpp main1.cpp)
